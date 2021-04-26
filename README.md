@@ -1,4 +1,3 @@
-# How to do goefencing in Android
-
+# How to do goefencing in Android 2021
 Code from Tutorial at https://www.youtube.com/watch?v=nmAtMqljH9M
-Coverted from Java to Kotlin
+Tutorial was Java but the code in this repository is in Kotlin
